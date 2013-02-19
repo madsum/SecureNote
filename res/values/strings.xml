@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SecureNote</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="user_name_">"User Name: "</string>
+    <string name="password_">"Password: "</string>
+    <string name="cancel">Cancel</string>
+    <string name="login">Login</string>
+    <string name="title_activity_register_user">Register new user</string>
+    <string name="registration">Registration</string>
+    <string name="space">"  "</string>
+    <string name="enter">Enter</string>
+    <string name="title_activity_notes_list">Stored notes list</string>
+    <string name="no_notes">No notes yet! Please click menu to add.</string>
+    <string name="title_activity_note_edit">Create new note</string>
+    <string name="title">"Title: "</string>
+    <string name="body">"Body: "</string>
+    <string name="confirm">Confirm</string>
+    <string name="add_note">Add Note</string>
+    <string name="delete_note">Delete note</string>
+    <string name="login_">"Login: "</string>
+    <string name="_wrong_pass">Wrong username or password!</string>
+    <string name="submit">Submit</string>
+    <string name="register">Register</string>
+
+</resources>
